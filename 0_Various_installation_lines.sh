@@ -1,13 +1,6 @@
 #!/bin/bash
 
-#### This script is part of "RNA-seq data analysis: from raw reads to differential expression" tutorial of keepsciencegoing.org initiative. 
-#### You can find explanations and references in the related videos under keepsciencegoing.org
-#### The script is provided "as is" for educational purposes. 
-#### Author: Daniele Tavernari ( daniele.tavernari@unil.ch ), Date: 12th April 2020
-
-### You will not need admin rights
-
-basedir="/path_to_your_base_directory/"
+basedir="/home/vagrant/RNASeq/"
 
 # Move to the Tools directory
 cd ${basedir}"/Tools/"
